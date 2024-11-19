@@ -1,0 +1,105 @@
+.border{
+    border: 2px solid red;
+    /* margin: 3px; */
+ }
+.justify-content{
+justify-content: center;
+}
+.item-center{
+   align-items: center;
+}
+.flex{
+    display:flex;
+ }                                                                              
+ .invert{
+   filter:invert(1)
+ }
+ .bg-black{
+   background-color: black;
+   color: white;
+ }
+ .bg-grey{
+   background-color: #121212;
+   color: white;
+ }
+ .m-1{
+    margin: 5px;
+ }
+ .round{
+    border-radius: 6px;
+ }
+ .p-1{
+   padding: 18px;
+ }
+ /* Custom scrollbar for WebKit browsers (Chrome, Safari, Edge) */
+ ::-webkit-scrollbar {
+   width: 5px;
+   /* Width of the scrollbar */
+ }
+
+ ::-webkit-scrollbar-track {
+   background: #1c1c1c;
+   /* Background of the track (dark gray) */
+ }
+
+ ::-webkit-scrollbar-thumb {
+   background-color: #555;
+   /* Color of the scroll thumb (slightly lighter gray) */
+   border-radius: 10px;
+   /* Rounded edges */
+   /* border: 2px solid #1c1c1c; */
+   /* Optional border to match track background */
+ }
+
+ ::-webkit-scrollbar-thumb:hover {
+   background-color: #888;
+   /* Color when hovered (lighter gray) */
+ }
+
+ /* Scrollbar for Firefox */
+ * {
+   scrollbar-width: thin;
+   /* Thin scrollbar */
+   scrollbar-color: #555 #1c1c1c;
+   /* Thumb color and track background */
+ }
+ 
+/* volume controller */
+
+    .volume-container {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+  
+    .volume-slider {
+      appearance: none;
+      height: 5px;
+      background: #ccc;
+      outline: none;
+      border-radius: 5px;
+      transition: background 0.3s ease;
+    }
+  
+    .volume-slider::-webkit-slider-thumb {
+      appearance: none;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      background-color: #4CAF50;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+  
+    .volume-slider:hover {
+      background: #bbb;
+    }
+  
+    .volume-slider:hover::-webkit-slider-thumb {
+      background-color: #45a049;
+    }
+  
+    .volume-value {
+      font-size: 18px;
+      font-weight: bold;
+    }
