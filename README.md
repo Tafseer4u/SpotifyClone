@@ -1,3 +1,3 @@
 ### This is my Project
 
-by tafseer ali
+by tafseer
