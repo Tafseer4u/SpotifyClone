@@ -7,8 +7,6 @@ A feature-rich Spotify clone that mimics the core functionalities of a music str
 
 - Dynamic Audio Playback: Play, pause, and control songs seamlessly.
 
-- Search Functionality: Quickly find songs, albums, or artists.
-
 - Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
 
 - Playlist Simulation: Browse and interact with mock playlists.
