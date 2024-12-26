@@ -309,7 +309,7 @@ body {
   cursor: pointer;
 }
 
-@media (max-width:1470px) {
+@media (max-width:1465px) {
   .left {
     width: 368px;
     position: absolute;
