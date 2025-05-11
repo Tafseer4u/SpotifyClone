@@ -22,7 +22,7 @@ A feature-rich Spotify clone that mimics the core functionalities of a music str
 🚀<u> Live Demo</u>
 ---
 
-Check out the project live: https://clone-spotify.freewebhostmost.com
+Check out the project live: https://spotifyclonetaf.netlify.app/
 
 💡<u> Key Learnings</u>
 ---
