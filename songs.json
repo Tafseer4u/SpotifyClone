@@ -1,0 +1,100 @@
+{
+  "folders": [
+    {
+      "name": "Badshah",
+      "path": "songs/Badshah",
+      "songs": [
+        "128-Genda Phool - Badshah 128 Kbps.mp3",
+        "Dj Waley Babu Badshah 128 Kbps.mp3",
+        "Kamaal Badshah 128 Kbps.mp3",
+        "Paagal Badshah 128 Kbps.mp3"
+      ]
+    },
+    {
+      "name": "heartbreak-Hindi",
+      "path": "songs/heartbreak-Hindi",
+      "songs": [
+        "128-Dil Tod Ke - B Praak 128 Kbps.mp3",
+        "Filhall B Praak 128 Kbps.mp3",
+        "Janiye_64(PagalWorld.com.sb).mp3",
+        "Teri-Deewani(PagalNew.Com.Se).mp3"
+      ]
+    },
+    {
+      "name": "Heartbreak-tamil",
+      "path": "songs/Heartbreak-tamil",
+      "songs": [
+        "Ava-Enna-Enna-MassTamilan.com.mp3",
+        "Ennadi-Maayavi-Nee-MassTamilan.com.mp3",
+        "Ennodu-Nee-Irundhaal.mp3",
+        "Po Nee Po-SenSongsMp3.Co.mp3"
+      ]
+    },
+    {
+      "name": "hindi",
+      "path": "songs/hindi",
+      "songs": [
+        "128-Aayi Nai - Stree 2 128 Kbps.mp3",
+        "128-Bhool Bhulaiyaa 3 - Title Track (Feat. Pitbull) - Bhool Bhulaiyaa 3 128 Kbps.mp3",
+        "Diamond Ni Jigar Saraiya 128 Kbps.mp3",
+        "Pehle Bhi Main_64(PagalWorld.com.sb).mp3"
+      ]
+    },
+    {
+      "name": "Honeysingh",
+      "path": "songs/Honeysingh",
+      "songs": [
+        "128-Kalaastar - Yo Yo Honey Singh 128 Kbps.mp3",
+        "Blue Eyes.mp3",
+        "Love_Dose_Extended.mp3",
+        "Mere Mehboob Qayamat Hogi.mp3"
+      ]
+    },
+    {
+      "name": "Justin bieber",
+      "path": "songs/Justin bieber",
+      "songs": [
+        "DJ Snake ft. Justin Bieber - Let Me Love You.mp3",
+        "Justin Bieber - Company.mp3",
+        "Justin Bieber - Sorry.mp3",
+        "Justin Bieber - What Do You Mean.mp3"
+      ]
+    },
+    {
+      "name": "Pradeepkumar",
+      "path": "songs/Pradeepkumar",
+      "songs": [
+        "Nee-Kavithaigala.mp3",
+        "The_Life_Of_Ram-MassTamilan.com.mp3"
+      ]
+    },
+    {
+      "name": "tamil",
+      "path": "songs/tamil",
+      "songs": [
+        "Goindhammavaala-MassTamilan.com.mp3",
+        "Kasethan Kadavulada.mp3",
+        "Police Kaarana Kattikitta.mp3",
+        "Why This Kolaveri Di-SenSongsMp3.Co.mp3"
+      ]
+    },
+    {
+      "name": "trendingsong",
+      "path": "songs/trendingsong",
+      "songs": [
+        "At-My-Worst(PagalNew.Com.Se).mp3",
+        "Giveon - HEARTBREAK ANNIVERSARY (Audio).mp3"
+      ]
+    },
+    {
+      "name": "Zayn",
+      "path": "songs/Zayn",
+      "songs": [
+        "ZAYN - BeFoUr.mp3",
+        "ZAYN - Dusk Till Dawn (Official Video) ft. Sia.mp3",
+        "ZAYN - LIKE I WOULD.mp3",
+        "ZAYN - PILLOWTALK (Official Music Video).mp3"
+      ]
+    }
+  ]
+}
